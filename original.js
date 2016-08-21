@@ -23,6 +23,7 @@ $(function() {
     
    	if ($scope.languages.value === $scope.lang1.value) {
    	$scope.IsMatch=true;
+
 	alert("Works in if!");
     	
  	 }
